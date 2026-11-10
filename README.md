@@ -13,9 +13,11 @@ A minimalist Monkeytype-inspired typing speed test built completely with Java Sw
 - Configurable test duration
 - Lightweight single-file Java application
 
-## Screenshots
 
-(Add screenshot here)
+
+## Preview
+
+![AWPM Calculator Screenshot](assets/screenshot.png)
 
 ## Technologies
 
